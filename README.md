@@ -1,3 +1,28 @@
+## pepper_virtual (kinetic) - 0.0.3-0
+
+The packages in the `pepper_virtual` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release pepper_virtual --track kinetic --rosdistro kinetic` on `Tue, 20 Sep 2016 12:42:07 -0000`
+
+These packages were released:
+- `pepper_control`
+- `pepper_gazebo_plugin`
+
+Version of package(s) in repository `pepper_virtual`:
+
+- upstream repository: https://github.com/ros-naoqi/pepper_virtual.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.3-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.22`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.39`
+
+
 ## pepper_virtual (jade) - 0.0.3-0
 
 The packages in the `pepper_virtual` repository were released into the `jade` distro by running `/usr/bin/bloom-release pepper_virtual --track jade --rosdistro jade` on `Tue, 20 Sep 2016 12:23:07 -0000`
