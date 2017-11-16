@@ -1,3 +1,28 @@
+## pepper_virtual (jade) - 0.0.4-0
+
+The packages in the `pepper_virtual` repository were released into the `jade` distro by running `/usr/bin/bloom-release pepper_virtual --track jade --rosdistro jade` on `Thu, 16 Nov 2017 14:29:34 -0000`
+
+These packages were released:
+- `pepper_control`
+- `pepper_gazebo_plugin`
+
+Version of package(s) in repository `pepper_virtual`:
+
+- upstream repository: https://github.com/ros-naoqi/pepper_virtual
+- release repository: https://github.com/ros-naoqi/pepper_virtual-release.git
+- rosdistro version: `0.0.3-0`
+- old version: `0.0.3-0`
+- new version: `0.0.4-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.1`
+- catkin_pkg version: `0.3.9`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## pepper_virtual (indigo) - 0.0.4-1
 
 The packages in the `pepper_virtual` repository were released into the `indigo` distro by running `/usr/bin/bloom-release pepper_virtual --track indigo --rosdistro indigo` on `Thu, 16 Nov 2017 14:24:27 -0000`
