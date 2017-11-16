@@ -1,0 +1,34 @@
+ros-indigo-pepper-control (0.0.4-1trusty) trusty; urgency=high
+
+  * removing wheels controllers
+  * adding Pelvis controller
+  * adding head controller
+  * fixed wheels controllers names
+  * fixing wheels controllers in position_control
+  * ading a launch file for all controllers
+  * fixing wheels controllers
+  * Contributors: Natalia Lyubova
+
+ -- Natalia Lyubova <natalia.lyubova@gmail.com>  Wed, 15 Nov 2017 23:00:00 -0000
+
+ros-indigo-pepper-control (0.0.3-1trusty) trusty; urgency=high
+
+  * changes in the launch file
+  * Contributors: nlyubova
+
+ -- Natalia Lyubova <natalia.lyubova@gmail.com>  Mon, 19 Sep 2016 22:00:00 -0000
+
+ros-indigo-pepper-control (0.0.2-1trusty) trusty; urgency=high
+
+
+
+ -- Natalia Lyubova <natalia.lyubova@gmail.com>  Tue, 05 Jul 2016 22:00:00 -0000
+
+ros-indigo-pepper-control (0.0.1-1trusty) trusty; urgency=high
+
+  * adding pepper_control package
+  * Contributors: nlyubova
+
+ -- Natalia Lyubova <natalia.lyubova@gmail.com>  Tue, 05 Jul 2016 22:00:00 -0000
+
+
